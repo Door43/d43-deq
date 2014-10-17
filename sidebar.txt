@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[deq:home|Door43 (deq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-deq|d43-deq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-deq/archive/master.zip|d43-deq.zip]]
+
+**Recent Changes**
+{{changes>ns = deq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/deq|Ethnologue data]]
+
